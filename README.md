@@ -1,5 +1,6 @@
 # Variational-Autoencoder-for-Face-Generation
 This repository contains Keras implementation of the Variational Autoencoder for face generation.
+**Note for people who speak Serbian language:** Detaljna teorijska objašnjenja i matematička izvođenja potrebna za implementaciju Varijacionog Autoenkodera mogu se naći na sledećem [linku](https://github.com/666KostA666/Generisanje-lica-pomocu-varijacionih-autoenkodera-i-generativnih-suprotstavljenih-modela/blob/main/Kosta%20Jovanovi%C4%87%20diplomski%20rad.pdf)
 ## DATASET
 The model was trained on [CelebA](https://www.kaggle.com/jessicali9530/celeba-dataset) dataset. It contains 202600 images of human faces, which are labeled with attributes (such as smiling, young, male, eyeglasses, ...).
 ## RESULTS
